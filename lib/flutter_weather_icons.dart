@@ -41,14 +41,50 @@ class WeatherIcons {
   /// TODO
   /// Moon Phases
   /// TODO
+
   /// Time
-  /// TODO
+  static const IconData time1 = const WeatherIconData(0xf08a);
+  static const IconData time2 = const WeatherIconData(0xf08b);
+  static const IconData time3 = const WeatherIconData(0xf08c);
+  static const IconData time4 = const WeatherIconData(0xf08d);
+  static const IconData time5 = const WeatherIconData(0xf08e);
+  static const IconData time6 = const WeatherIconData(0xf08f);
+  static const IconData time7 = const WeatherIconData(0xf090);
+  static const IconData time8 = const WeatherIconData(0xf091);
+  static const IconData time9 = const WeatherIconData(0xf092);
+  static const IconData time10 = const WeatherIconData(0xf093);
+  static const IconData time11 = const WeatherIconData(0xf092);
+  static const IconData time12 = const WeatherIconData(0xf089);
+
   /// Directional Arrows
-  /// TODO
+  static const IconData directionUp = const WeatherIconData(0xf058);
+  static const IconData directionUpRight = const WeatherIconData(0xf057);
+  static const IconData directionRight = const WeatherIconData(0xf04d);
+  static const IconData directionDownRight = const WeatherIconData(0xf088);
+  static const IconData directionDown = const WeatherIconData(0xf044);
+  static const IconData directionDownLeft = const WeatherIconData(0xf043);
+  static const IconData directionLeft = const WeatherIconData(0xf048);
+  static const IconData directionUpLeft = const WeatherIconData(0xf087);
+
+
   /// Wind Degree Examples
   /// TODO
   /// Wind Cardinal Examples
   /// TODO
+
   /// Beaufort Wind Scale
-  /// TODO
+  static const IconData windBeaufort0 = const WeatherIconData(0xf0b7);
+  static const IconData windBeaufort1 = const WeatherIconData(0xf0b8);
+  static const IconData windBeaufort2 = const WeatherIconData(0xf0b9);
+  static const IconData windBeaufort3 = const WeatherIconData(0xf0ba);
+  static const IconData windBeaufort4 = const WeatherIconData(0xf0bb);
+  static const IconData windBeaufort5 = const WeatherIconData(0xf0bc);
+  static const IconData windBeaufort6 = const WeatherIconData(0xf0bd);
+  static const IconData windBeaufort7 = const WeatherIconData(0xf0be);
+  static const IconData windBeaufort8 = const WeatherIconData(0xf0bf);
+  static const IconData windBeaufort9 = const WeatherIconData(0xf0c0);
+  static const IconData windBeaufort10 = const WeatherIconData(0xf0c1);
+  static const IconData windBeaufort11 = const WeatherIconData(0xf0c2);
+  static const IconData windBeaufort12 = const WeatherIconData(0xf0c3);
+
 }
