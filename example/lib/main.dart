@@ -73,7 +73,13 @@ class _MyHomePageState extends State<MyHomePage> {
         title: Text(widget.title),
       ),
       body: Center(
-       child: Icon(WeatherIcons.daySunny),
+       child: Column(
+         children: <Widget>[
+           Icon(WeatherIcons.daySunny),
+           Icon(WeatherIcons.dayCloudy),
+           Icon(WeatherIcons.dayCloudyGusts),
+         ],
+       ),
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: _incrementCounter,
