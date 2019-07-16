@@ -1,7 +1,7 @@
 library weather_icons_flutter;
 
 import 'package:flutter/widgets.dart';
-import 'package:weather_icons_flutter/icon_data.dart';
+import 'package:flutter_weather_icons/icon_data.dart';
 
 class WeatherIcons {
 

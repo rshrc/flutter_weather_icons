@@ -1,4 +1,4 @@
-# weather_icon_demo
+# weather_icons_demo
 
 A new Flutter project.
 
