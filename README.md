@@ -24,7 +24,7 @@ class MyAwesomeWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return IconButton(
       // Use the EvaIcons class for the IconData
-      icon: Icon(WeatherIcons.heart),
+      icon: Icon(WeatherIcons.daySunny),
       onPressed: () { 
           print("Weather Icon Pressed! It's Sunny"); 
       }
