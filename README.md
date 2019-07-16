@@ -18,7 +18,7 @@ In the dependencies: section of your pubspec.yaml, add the following line:
 ## Usage
 
 ```dart
-import 'package:flutter_weather_icons/weather_icons_flutter.dart';
+import 'package:flutter_weather_icons/flutter_weather_icons.dart';
 
 class MyAwesomeWidget extends StatelessWidget {
   Widget build(BuildContext context) {

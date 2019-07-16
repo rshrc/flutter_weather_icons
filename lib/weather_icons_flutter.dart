@@ -1,4 +1,4 @@
-library weather_icons_flutter;
+library flutter_weather_icons;
 
 import 'package:flutter/widgets.dart';
 import 'package:flutter_weather_icons/icon_data.dart';
