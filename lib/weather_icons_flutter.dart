@@ -7,7 +7,7 @@ class WeatherIcons {
 
   /// Daytime
   static const IconData daySunny = const WeatherIconData(0xf00d);
-  static const IconData dayCloudy = const WeatherIconData(0xf00d);
+  static const IconData dayCloudy = const WeatherIconData(0xf002);
   static const IconData dayCloudyGusts = const WeatherIconData(0xf000);
   static const IconData dayCloudyWindy = const WeatherIconData(0xf001);
   static const IconData dayFog = const WeatherIconData(0xf003);
@@ -51,8 +51,4 @@ class WeatherIcons {
   /// TODO
   /// Beaufort Wind Scale
   /// TODO
-
-
-
-
 }
