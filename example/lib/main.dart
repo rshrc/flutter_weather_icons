@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_weather_icons/weather_icons_flutter.dart';
+import 'package:flutter_weather_icons/flutter_weather_icons.dart';
 
 void main() => runApp(MyApp());
 
