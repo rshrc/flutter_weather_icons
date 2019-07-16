@@ -37,6 +37,10 @@ class MyAwesomeWidget extends StatelessWidget {
 
 View the Flutter app in the `example` directory.
 
+## Screenshot
+![screenshot](github_assets/screenshot.jpg)
+
+
 ## Developers
 
 *Made with ❤️ by [Rishi Banerjee](https://github.com/rshrc) and [Nikhil Anand](https://github.com/muj-programmer)*
