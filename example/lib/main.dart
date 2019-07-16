@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:weather_icons_flutter/weather_icons_flutter.dart';
+import 'package:flutter_weather_icons/weather_icons_flutter.dart';
 
 void main() => runApp(MyApp());
 
@@ -75,9 +75,8 @@ class _MyHomePageState extends State<MyHomePage> {
       body: Center(
        child: Column(
          children: <Widget>[
+           Text("Hello"),
            Icon(WeatherIcons.daySunny),
-           Icon(WeatherIcons.dayCloudy),
-           Icon(WeatherIcons.dayCloudyGusts),
          ],
        ),
       ),
