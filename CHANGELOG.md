@@ -1,3 +1,4 @@
+## [0.0.7] - Added support for Time, Directional and Beaufort Wind Scale Icons
 ## [0.0.6] - Minor Fixes and refactoring
 ## [0.0.5] - Updated instructions and added banner.
 ## [0.0.4] - Package Author Changed

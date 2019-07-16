@@ -1,5 +1,5 @@
 ![header](github_assets/header.jpg)
-# flutter_weather_icons 0.0.6
+# flutter_weather_icons 0.0.7
 
 ## 222 Weather Themed Icons for Flutter.
 
