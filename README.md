@@ -1,6 +1,6 @@
 ![header](github_assets/header.jpg)
 
-# flutter_weather_icons _v1.0.1_
+# flutter_weather_icons _v1.0.2_
 
 ## [See Catalog](https://erikflowers.github.io/weather-icons/)
 

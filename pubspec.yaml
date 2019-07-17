@@ -1,6 +1,6 @@
 name: flutter_weather_icons
 description: Flutter package for Weather Icons. Weather Icons is a pack of 222 beautifully crafted Open Source icons for representing weather and climate
-version: 1.0.1
+version: 1.0.2
 author: Rishi Banerjee <rishieric91@gmail.com>
 homepage: https://github.com/rshrc/flutter_weather_icons
 
@@ -20,4 +20,4 @@ flutter:
   fonts:
     - family: WeatherIcons
       fonts:
-        - asset: lib/fonts/weathericons.ttf
+        - asset: fonts/weathericons.ttf

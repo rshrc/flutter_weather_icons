@@ -1,3 +1,8 @@
+## 1.0.2
+
+- **Update**
+  - Fixed font asset directory
+
 ## 1.0.1
 
 - **Update**
