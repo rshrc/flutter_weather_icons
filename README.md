@@ -1,6 +1,13 @@
 ![header](github_assets/header.jpg)
 
 # flutter_weather_icons _v1.0.2_
+![Pub Version](https://img.shields.io/pub/v/flutter_weather_icons.svg)
+![Issues](https://img.shields.io/github/issues/rshrc/flutter_weather_icons.svg)
+![GitHub forks](https://img.shields.io/github/forks/rshrc/flutter_weather_icons.svg)			
+![License](https://img.shields.io/github/license/rshrc/flutter_weather_icons.svg?color=red)
+![Github Stars](https://img.shields.io/github/stars/rshrc/flutter_weather_icons.svg?style=social)
+![Twitter](https://img.shields.io/twitter/url/https/github.com%2Frshrc%2Fflutter_weather_icons.svg)	
+
 
 ## [See Catalog](https://erikflowers.github.io/weather-icons/)
 
